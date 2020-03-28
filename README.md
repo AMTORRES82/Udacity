@@ -21,7 +21,7 @@
  3.Files in the repository:
  
   test.csv: The dataset whith the house prices and the rest of features.
-  Houses.ipynb: The jupyter notebook where we find the code.
+  Houses2.ipynb: The jupyter notebook where we find the code.
  
  4.Summary of the results of the analysis
   - Most correlated variables with the Sale Price.
