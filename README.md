@@ -24,9 +24,9 @@
   Houses2.ipynb: The jupyter notebook where we find the code.
  
  4.Summary of the results of the analysis
-  - Most correlated variables with the Sale Price.
-  - Elastic Net is the best linear model we could fit to this data.
-  - Most important variables in that model, best predictors of the price under this framework.
+  - Most related features with the price.
+  - Best deals, where the market price is far below our model prediction.
+  - Worst deals, where the market price is far above our model prediction.
  
  5.References
   - Kaggle
