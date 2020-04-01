@@ -36,7 +36,7 @@
   
  **4.Blog:**
  
-  4.1 This first post is about the model and most important features: https://medium.com/chicago-house-prices/the-data-37ed20241621
+  4.1 This first post is about the first data analysis and modeling proccess and go deeper in technical issues: https://medium.com/chicago-house-prices/the-data-37ed20241621
   
   4.2 This second post is about the three business questions, where I use the models: https://medium.com/chicago-house-prices/business-questions-from-the-houses-dataset-577ce33570ac
    
