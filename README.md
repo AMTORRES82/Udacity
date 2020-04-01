@@ -2,18 +2,17 @@
 
 **1.Libraries used:**
 
-  import numpy as np
-  import pandas as pd
-  import matplotlib.pyplot as plt
-  from sklearn.linear_model import *
-  from sklearn.model_selection import train_test_split
-  from sklearn.metrics import r2_score, mean_squared_error
-  import seaborn as sns
-  from scipy import stats
-  from scipy.stats import norm, skew
-  %matplotlib inline
-  
-  Numpy, pandas, matplotlib and sklearn for the models
+  - import numpy as np
+  - import pandas as pd
+  - import matplotlib.pyplot as plt
+  - from sklearn.linear_model import *
+  - from sklearn.model_selection import train_test_split
+  - from sklearn.metrics import r2_score, mean_squared_error
+  - import seaborn as sns
+  - from scipy import stats
+  - from scipy.stats import norm, skew
+  - %matplotlib inline
+ 
   
  **2.Motivation for the project:**
   
@@ -31,9 +30,9 @@
   
  **3.Files in the repository:** 
  
-  test.csv: The dataset whith the house prices and the rest of features.
-  Houses2.ipynb: The jupyter notebook where we find the code.
-  README.md
+  - test.csv: The dataset whith the house prices and the rest of features.
+  - Houses2.ipynb: The jupyter notebook where we find the code.
+  - README.md
   
  **4.Blog:**
  
